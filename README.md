@@ -28,7 +28,7 @@ Notebook o arquivo `projeto_airbnb_barcelona_summary.ipynb`
 **Links:**
 
 - [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
-- [Outros projetos](https://franciscobustamante.com.br/projects/)
+- [Outros projetos](https://franciscobustamante.com.br)
 - [Curriculum Vitae](https://franciscobustamante.com.br/about/)
 - [Ciência Programada](https://cienciaprogramada.com.br)
-<!-- - [Portfolio Data Science]() -->
+
